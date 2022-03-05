@@ -1,0 +1,218 @@
+.top-menu {
+  font-family: Play, sans-serif;
+  /*opacity: 0.5;*/
+  background-color: #8080801a;
+  padding: 0.5em;
+}
+
+.top-menu .nav-item .nav-link {
+  color: #100353;
+  /*width: 723px;*/
+  /*height: 14px;*/
+  /*color: #100353;*/
+  /*font-family: Play;*/
+  font-size: 19px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 23.19px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.heading-1 {
+  /*height: 33px;*/
+  color: #100353;
+  font-family: Play;
+  font-size: 48px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 32.92px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.sub-heading-1 {
+  /*height: 94px;*/
+  color: #079bd2;
+  /*font-family: "PT Sans";*/
+  font-size: 29px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 33.19px;
+  text-align: left;
+  letter-spacing: normal;
+  line-height: normal;
+  margin-bottom: 1rem;
+}
+
+.support-text {
+  /*height: 147px;*/
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 26px;
+  text-align: left;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.heading-2 {
+  /*height: 17px;*/
+  color: #100353;
+  font-family: Play;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 30px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  line-height: normal;
+  margin-bottom: 1rem;
+}
+
+.small-text {
+  color: #000000;
+  /*font-family: "PT Sans";*/
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-align: left;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.no-border-list .list-group-item {
+  border: 0;
+}
+
+.service-list .list-group-item {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 17px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+  letter-spacing: normal;
+  /*line-height: 36px;*/
+  letter-spacing: normal;
+  line-height: 26px;
+  background-color: transparent;
+}
+
+.media-body h6 {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  /*line-height: 30px;*/
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  margin-bottom: 0;
+}
+
+.small-icon {
+  background-color: #001350;
+  /*display: flex;*/
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  border-radius: 50%;
+  color: white;
+  font-size: 12px;
+  padding: 0.25rem;
+  margin-right: 0.5rem;
+}
+
+.page-list .list-group-item {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  /*line-height: 30px;*/
+  letter-spacing: normal;
+  /*line-height: 44px;*/
+  padding-left: 0;
+}
+
+.carousel-item h2 {
+  color: #079bd2;
+  font-family: "PT Sans";
+  font-size: 36px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 33.19px;
+  /*text-align: left;*/
+  text-transform: uppercase;
+  letter-spacing: normal;
+  line-height: normal;
+  padding: 1rem;
+}
+
+footer p {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 17px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  /*text-align: left;*/
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+footer {
+  background: #8080801a;
+}
+
+.center-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  font-family: Play;
+  font-size: 48px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: -0.48px;
+  line-height: normal;
+}
+
