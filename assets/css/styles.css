@@ -221,3 +221,15 @@ footer {
   max-width: 1200px;
 }
 
+.carousel-indicators li {
+  background-color: #079bd2;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  /*top: 25px;*/
+}
+
+.carousel-indicators {
+  top: 95%;
+}
+
